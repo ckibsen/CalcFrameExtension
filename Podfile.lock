@@ -1,0 +1,18 @@
+
+PODS:
+- CalcFrame (0.0.1)
+- GHUnitIOS (0.5.5)
+
+DEPENDENCIES:
+- CalcFrame (from `https://raw.github.com/ckibsen/CalcFrame/0.0.1/CalcFrame.podspec')
+- GHUnitIOS (= 0.5.5)
+
+EXTERNAL SOURCES:
+  CalcFrame:
+    :podspec: https://raw.github.com/ckibsen/CalcFrame/0.0.1/CalcFrame.podspec
+
+SPEC CHECKSUMS:
+  CalcFrame: 52b65a97d9ffa1547a8b5362d36898e68f6702d4
+  GHUnitIOS: 8e23d8fe0b0514e50d1996b40e2f59c7a8d3d784
+
+COCOAPODS: 0.16.0
